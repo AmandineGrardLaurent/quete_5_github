@@ -1,3 +1,4 @@
+REMOTE
 # quete_5_github
 
 J'adore les quetes git/github.... ironie...
